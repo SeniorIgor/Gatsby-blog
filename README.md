@@ -4,11 +4,10 @@
 
 ## 🚀 Quick start
 
-A quick look at
 
-    ```shell
+```shell
     npm run develop
-    ```
+```
 
 ## 🧐 What's inside?
 
