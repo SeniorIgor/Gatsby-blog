@@ -4,8 +4,10 @@
 
 ## 🚀 Quick start
 
+A quick look at
+
     ```shell
-      npm run develop
+    npm run develop
     ```
 
 ## 🧐 What's inside?
