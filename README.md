@@ -5,7 +5,7 @@
 ## 🚀 Quick start
 
     ```shell
-    npm run develop
+      npm run develop
     ```
 
 ## 🧐 What's inside?
